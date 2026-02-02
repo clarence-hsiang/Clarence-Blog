@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Category 1 on Clare&#39;s Blog</title>
+    <link>http://localhost:1313/Clarence-Blog/categories/category-1/</link>
+    <description>Recent content in Category 1 on Clare&#39;s Blog</description>
+    <generator>Hugo -- 0.155.1</generator>
+    <language>zh-cn</language>
+    <copyright>2026 Clare</copyright>
+    <lastBuildDate>Mon, 02 Feb 2026 14:28:31 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/Clarence-Blog/categories/category-1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>标题</title>
+      <link>http://localhost:1313/Clarence-Blog/posts/2026/02/%E6%A0%87%E9%A2%98/</link>
+      <pubDate>Mon, 02 Feb 2026 14:28:31 +0800</pubDate>
+      <guid>http://localhost:1313/Clarence-Blog/posts/2026/02/%E6%A0%87%E9%A2%98/</guid>
+      <description>在这里写文章摘要，用于列表和 SEO</description>
+    </item>
+  </channel>
+</rss>
